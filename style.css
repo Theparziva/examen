@@ -1,0 +1,106 @@
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+nav.princi {
+    text-align: center;
+    color: green;
+    background-color: aqua;
+    text-decoration: underline purple;
+}
+span.inv {
+    color: lightgoldenrodyellow;
+}
+div.p1 {
+    background-color: white;
+}
+p.blue {
+    background-color: blue;
+    color: blue;
+}
+nav.empresa {
+    color: blue;
+}
+div.p2 {
+    background-color: cadetblue;
+    text-align: end;
+}
+p.red {
+    background-color: red;
+    color: red;
+}
+p.rojo {
+    color: red;
+    text-align: end;
+}
+span.center {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+span.tachado {
+    text-decoration: line-through;
+}
+span.subrralado {
+    text-decoration:wavy yellow;
+}
+footer {
+    font-style: italic;
+}
+div.persona {
+    background-color: lightgreen;
+    color: blue;
+    font-weight: bold;
+}
+div.p1 {
+    background-color: white;
+}
+p.blue {
+    background-color: blue;
+    color: blue;
+}
+nav.empresa {
+    color: blue;
+}
+div.p2 {
+    background-color: cadetblue;
+    text-align: end;
+}
+p.red {
+    background-color: red;
+    color: red;
+}
+p.rojo {
+    color: red;
+    text-align: end;
+}
+span.center {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+span.tachado {
+    text-decoration: line-through;
+}
+span.subrralado {
+    text-decoration:wavy yellow;
+}
+footer {
+    font-style: italic;
+}
+div.princi {
+    background-color: lightgreen;
+    color: blue;
+    font-weight: bold;
+}
+p.invi {
+    color: lightgreen;
+}
